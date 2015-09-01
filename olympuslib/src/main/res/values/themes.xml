@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+       <item name ="colorPrimary">#ABCD12</item>
+        <item name ="colorAccent">#12EEA2</item>
+
+
+        <!--<item name="android:homeAsUpIndicator">@drawable/abc_btn_radio_material</item>-->
+    </style>
+
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+
+</resources>
+

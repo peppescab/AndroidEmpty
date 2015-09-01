@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Borea</string>
+
+    <string name="openDrawer">Hello world!</string>
+    <string name="closeDrawer">Settings</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
